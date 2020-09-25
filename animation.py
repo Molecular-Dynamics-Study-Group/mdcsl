@@ -20,6 +20,7 @@ xti=np.zeros((N,nsteps))
 yti=np.zeros((N,nsteps))
 zti=np.zeros((N,nsteps))
 
+#complexity n^2
 for i in range(N):
   for t in range(nsteps):
      s=N*t+i
