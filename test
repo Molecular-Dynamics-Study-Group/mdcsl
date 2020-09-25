@@ -1,0 +1,2565 @@
+(N,V,E) =  21   26.25   -3.0
+PBC cell side length: L =  2.9719609763815646
+Total potential energy: epot =  -72.65216397469354
+Total energy: E =  -3.0
+Temperature: T =  0.306417903958525
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  1
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  2
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  3
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  4
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  5
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  6
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  7
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  8
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  9
+Block number:  0
+----------------------------
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  1
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  2
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  3
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  4
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  5
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  6
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  7
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  8
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  9
+Block number:  1
+----------------------------
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  1
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  2
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  3
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  4
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  5
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  6
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  7
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  8
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  9
+Block number:  2
+----------------------------
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  1
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  2
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  3
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  4
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  5
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  6
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  7
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  8
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  9
+Block number:  3
+----------------------------
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  1
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  2
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  3
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  4
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  5
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  6
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  7
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  8
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  0
+Debug im  15
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  1
+Debug im  25
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  2
+Debug im  35
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  3
+Debug im  45
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  4
+Debug im  55
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  5
+Debug im  65
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  6
+Debug im  75
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  7
+Debug im  85
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  8
+Debug im  95
+Debug corr  21.0
+Debug walker  21.0
+Debug pq0 pq  (21+0j) (21+0j) 0.0
+Debug m  9
+Debug im  105
+Debug corr  21.0
+Debug walker  21.0
+t =  9
+Block number:  4
+----------------------------
